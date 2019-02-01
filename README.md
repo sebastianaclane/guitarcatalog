@@ -1,6 +1,6 @@
 # GuitarCatalog
 
-A PHP web site where you can find electric guitars using a search box or filter by price, manufacturer, string amount, or left/right hand guitars. It contains a backend to upload and edit guitars on the website.
+A PHP website I created back at the end of 2016 while in school where you can find electric guitars using a search box or filter by price, manufacturer, string amount, or left/right hand guitars. It contains a backend to upload and edit guitars on the website.
 
 # What I Learned
 
