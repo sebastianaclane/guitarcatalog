@@ -8,3 +8,7 @@ A PHP website I created back at the end of 2016 while in school where you can fi
 * Creating an admin section of the site with CRUD (Create, Read, Update, Delete) features 
 * Responsive Design/Bootstrap
 * PHP Form Validation and preventing SQL Injections
+
+# See it in action
+
+* http://sebastianlane.ca/projects/guitarcatalog/
